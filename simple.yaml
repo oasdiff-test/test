@@ -30,7 +30,6 @@ components:
             name:
               type: string
           required:
-            - name
             - id
 paths:
   /api/v1.0/groups:
