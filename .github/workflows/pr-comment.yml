@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Post oasdiff PR comment
-      uses: oasdiff/oasdiff-action/pr-comment@v0.0.37
+      uses: oasdiff/oasdiff-action/pr-comment@v0.0.47
       with:
         base: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.base_ref }}/simple.yaml
         revision: simple.yaml
