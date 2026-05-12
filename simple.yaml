@@ -11,7 +11,7 @@ components:
       name: groupId
       required: false
       schema:
-        type: number
+        type: string
   schemas:
     GroupView:
       type: object
@@ -30,7 +30,7 @@ components:
             name:
               type: string
           required:
-            - id
+            - name
 paths:
   /api/v1.0/groups:
     post:
