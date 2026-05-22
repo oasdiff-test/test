@@ -65,3 +65,6003 @@ paths:
               schema:
                 $ref: '#/components/schemas/GroupView'
           description: SUCCESS
+  /api/v1.0/items_00000:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00000
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00001:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00001
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00002:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00002
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00003:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00003
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00004:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00004
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00005:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00005
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00006:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00006
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00007:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00007
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00008:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00008
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00009:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00009
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00010:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00010
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00011:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00011
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00012:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00012
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00013:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00013
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00014:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00014
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00015:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00015
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00016:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00016
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00017:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00017
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00018:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00018
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00019:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00019
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00020:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00020
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00021:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00021
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00022:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00022
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00023:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00023
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00024:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00024
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00025:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00025
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00026:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00026
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00027:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00027
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00028:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00028
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00029:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00029
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00030:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00030
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00031:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00031
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00032:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00032
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00033:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00033
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00034:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00034
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00035:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00035
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00036:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00036
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00037:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00037
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00038:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00038
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00039:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00039
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00040:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00040
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00041:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00041
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00042:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00042
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00043:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00043
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00044:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00044
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00045:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00045
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00046:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00046
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00047:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00047
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00048:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00048
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00049:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00049
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00050:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00050
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00051:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00051
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00052:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00052
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00053:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00053
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00054:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00054
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00055:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00055
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00056:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00056
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00057:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00057
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00058:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00058
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00059:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00059
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00060:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00060
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00061:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00061
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00062:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00062
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00063:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00063
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00064:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00064
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00065:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00065
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00066:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00066
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00067:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00067
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00068:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00068
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00069:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00069
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00070:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00070
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00071:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00071
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00072:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00072
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00073:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00073
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00074:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00074
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00075:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00075
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00076:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00076
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00077:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00077
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00078:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00078
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00079:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00079
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00080:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00080
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00081:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00081
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00082:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00082
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00083:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00083
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00084:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00084
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00085:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00085
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00086:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00086
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00087:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00087
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00088:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00088
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00089:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00089
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00090:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00090
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00091:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00091
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00092:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00092
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00093:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00093
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00094:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00094
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00095:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00095
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00096:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00096
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00097:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00097
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00098:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00098
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00099:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00099
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00100:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00100
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00101:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00101
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00102:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00102
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00103:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00103
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00104:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00104
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00105:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00105
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00106:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00106
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00107:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00107
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00108:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00108
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00109:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00109
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00110:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00110
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00111:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00111
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00112:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00112
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00113:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00113
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00114:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00114
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00115:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00115
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00116:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00116
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00117:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00117
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00118:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00118
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00119:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00119
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00120:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00120
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00121:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00121
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00122:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00122
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00123:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00123
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00124:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00124
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00125:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00125
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00126:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00126
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00127:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00127
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00128:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00128
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00129:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00129
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00130:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00130
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00131:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00131
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00132:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00132
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00133:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00133
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00134:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00134
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00135:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00135
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00136:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00136
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00137:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00137
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00138:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00138
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00139:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00139
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00140:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00140
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00141:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00141
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00142:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00142
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00143:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00143
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00144:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00144
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00145:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00145
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00146:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00146
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00147:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00147
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00148:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00148
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00149:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00149
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00150:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00150
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00151:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00151
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00152:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00152
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00153:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00153
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00154:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00154
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00155:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00155
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00156:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00156
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00157:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00157
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00158:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00158
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00159:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00159
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00160:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00160
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00161:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00161
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00162:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00162
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00163:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00163
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00164:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00164
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00165:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00165
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00166:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00166
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00167:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00167
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00168:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00168
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00169:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00169
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00170:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00170
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00171:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00171
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00172:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00172
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00173:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00173
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00174:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00174
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00175:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00175
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00176:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00176
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00177:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00177
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00178:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00178
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00179:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00179
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00180:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00180
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00181:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00181
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00182:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00182
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00183:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00183
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00184:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00184
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00185:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00185
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00186:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00186
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00187:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00187
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00188:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00188
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00189:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00189
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00190:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00190
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00191:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00191
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00192:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00192
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00193:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00193
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00194:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00194
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00195:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00195
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00196:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00196
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00197:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00197
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00198:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00198
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00199:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00199
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00200:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00200
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00201:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00201
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00202:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00202
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00203:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00203
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00204:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00204
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00205:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00205
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00206:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00206
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00207:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00207
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00208:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00208
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00209:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00209
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00210:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00210
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00211:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00211
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00212:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00212
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00213:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00213
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00214:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00214
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00215:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00215
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00216:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00216
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00217:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00217
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00218:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00218
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00219:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00219
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00220:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00220
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00221:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00221
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00222:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00222
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00223:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00223
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00224:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00224
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00225:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00225
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00226:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00226
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00227:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00227
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00228:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00228
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00229:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00229
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00230:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00230
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00231:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00231
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00232:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00232
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00233:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00233
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00234:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00234
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00235:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00235
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00236:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00236
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00237:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00237
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00238:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00238
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00239:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00239
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00240:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00240
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00241:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00241
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00242:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00242
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00243:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00243
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00244:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00244
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00245:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00245
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00246:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00246
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00247:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00247
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00248:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00248
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00249:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00249
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00250:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00250
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00251:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00251
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00252:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00252
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00253:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00253
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00254:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00254
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00255:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00255
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00256:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00256
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00257:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00257
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00258:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00258
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00259:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00259
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00260:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00260
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00261:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00261
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00262:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00262
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00263:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00263
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00264:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00264
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00265:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00265
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00266:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00266
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00267:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00267
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00268:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00268
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00269:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00269
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00270:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00270
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00271:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00271
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00272:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00272
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00273:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00273
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00274:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00274
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00275:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00275
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00276:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00276
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00277:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00277
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00278:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00278
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00279:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00279
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00280:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00280
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00281:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00281
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00282:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00282
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00283:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00283
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00284:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00284
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00285:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00285
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00286:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00286
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00287:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00287
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00288:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00288
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00289:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00289
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00290:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00290
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00291:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00291
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00292:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00292
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00293:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00293
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00294:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00294
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00295:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00295
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00296:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00296
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00297:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00297
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00298:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00298
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00299:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00299
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00300:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00300
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00301:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00301
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00302:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00302
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00303:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00303
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00304:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00304
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00305:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00305
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00306:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00306
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00307:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00307
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00308:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00308
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00309:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00309
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00310:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00310
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00311:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00311
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00312:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00312
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00313:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00313
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00314:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00314
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00315:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00315
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00316:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00316
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00317:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00317
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00318:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00318
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00319:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00319
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00320:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00320
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00321:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00321
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00322:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00322
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00323:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00323
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00324:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00324
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00325:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00325
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00326:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00326
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00327:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00327
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00328:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00328
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00329:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00329
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00330:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00330
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00331:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00331
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00332:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00332
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00333:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00333
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00334:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00334
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00335:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00335
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00336:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00336
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00337:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00337
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00338:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00338
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00339:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00339
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00340:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00340
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00341:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00341
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00342:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00342
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00343:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00343
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00344:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00344
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00345:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00345
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00346:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00346
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00347:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00347
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00348:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00348
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00349:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00349
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00350:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00350
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00351:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00351
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00352:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00352
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00353:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00353
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00354:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00354
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00355:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00355
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00356:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00356
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00357:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00357
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00358:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00358
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00359:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00359
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00360:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00360
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00361:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00361
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00362:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00362
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00363:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00363
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00364:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00364
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00365:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00365
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00366:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00366
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00367:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00367
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00368:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00368
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00369:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00369
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00370:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00370
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00371:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00371
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00372:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00372
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00373:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00373
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00374:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00374
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00375:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00375
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00376:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00376
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00377:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00377
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00378:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00378
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00379:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00379
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00380:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00380
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00381:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00381
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00382:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00382
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00383:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00383
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00384:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00384
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00385:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00385
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00386:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00386
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00387:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00387
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00388:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00388
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00389:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00389
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00390:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00390
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00391:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00391
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00392:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00392
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00393:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00393
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00394:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00394
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00395:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00395
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00396:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00396
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00397:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00397
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00398:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00398
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00399:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00399
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00400:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00400
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00401:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00401
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00402:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00402
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00403:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00403
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00404:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00404
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00405:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00405
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00406:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00406
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00407:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00407
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00408:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00408
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00409:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00409
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00410:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00410
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00411:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00411
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00412:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00412
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00413:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00413
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00414:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00414
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00415:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00415
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00416:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00416
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00417:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00417
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00418:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00418
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00419:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00419
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00420:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00420
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00421:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00421
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00422:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00422
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00423:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00423
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00424:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00424
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00425:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00425
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00426:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00426
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00427:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00427
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00428:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00428
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00429:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00429
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00430:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00430
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00431:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00431
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00432:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00432
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00433:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00433
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00434:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00434
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00435:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00435
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00436:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00436
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00437:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00437
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00438:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00438
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00439:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00439
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00440:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00440
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00441:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00441
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00442:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00442
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00443:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00443
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00444:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00444
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00445:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00445
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00446:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00446
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00447:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00447
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00448:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00448
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00449:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00449
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00450:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00450
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00451:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00451
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00452:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00452
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00453:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00453
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00454:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00454
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00455:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00455
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00456:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00456
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00457:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00457
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00458:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00458
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00459:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00459
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00460:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00460
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00461:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00461
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00462:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00462
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00463:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00463
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00464:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00464
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00465:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00465
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00466:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00466
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00467:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00467
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00468:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00468
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00469:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00469
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00470:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00470
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00471:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00471
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00472:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00472
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00473:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00473
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00474:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00474
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00475:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00475
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00476:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00476
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00477:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00477
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00478:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00478
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00479:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00479
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00480:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00480
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00481:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00481
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00482:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00482
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00483:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00483
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00484:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00484
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00485:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00485
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00486:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00486
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00487:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00487
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00488:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00488
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00489:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00489
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00490:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00490
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00491:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00491
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00492:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00492
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00493:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00493
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00494:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00494
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00495:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00495
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00496:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00496
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00497:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00497
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00498:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00498
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
+  /api/v1.0/items_00499:
+    get:
+      tags:
+       - Item
+      operationId: getItem_00499
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GroupView'
+          description: SUCCESS
