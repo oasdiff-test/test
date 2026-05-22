@@ -45,23 +45,10 @@ paths:
         description: Creates one project.
         required: true
       responses:
-        "200":
+        "400":
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/GroupView'
-          description: SUCCESS
+          description: Conflict
       summary: Create a Project
-    get:
-      tags:
-       - Group
-      operationId: listGroups
-      parameters:
-       - $ref: '#/components/parameters/groupId'
-      responses:
-        "200":
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/GroupView'
-          description: SUCCESS
