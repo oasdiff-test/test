@@ -51,10 +51,17 @@ paths:
               schema:
                 $ref: '#/components/schemas/GroupView'
           description: SUCCESS
-        "400":
+      summary: Create a Project
+    get:
+      tags:
+       - Group
+      operationId: listGroups
+      parameters:
+       - $ref: '#/components/parameters/groupId'
+      responses:
+        "200":
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/GroupView'
-          description: Conflict
-      summary: Create a Project
+          description: SUCCESS
