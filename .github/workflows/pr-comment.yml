@@ -2,16 +2,18 @@ name: oasdiff
 on:
   pull_request:
     branches: [ "main" ]
+permissions:
+  contents: read
+  pull-requests: write
 jobs:
   breaking-changes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-
       - run: git fetch --depth=1 origin ${{ github.base_ref }}
-
       - uses: oasdiff/oasdiff-action/breaking@test/oasdiff-latest-image
         with:
           base: 'origin/${{ github.base_ref }}:simple.yaml'
           revision: 'HEAD:simple.yaml'
           fail-on: WARN
+          github-token: ${{ github.token }}
