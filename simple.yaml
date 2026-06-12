@@ -28,7 +28,7 @@ components:
               type: string
               readOnly: true
             name:
-              type: string
+              type: number
           required:
             - name
 paths:
