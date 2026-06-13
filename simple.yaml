@@ -11,7 +11,7 @@ components:
       name: groupId
       required: false
       schema:
-        type: string
+        type: number
   schemas:
     GroupView:
       type: object
