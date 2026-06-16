@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - run: git fetch --depth=1 origin ${{ github.base_ref }}
-      - uses: oasdiff/oasdiff-action/breaking@v0.1.1
+      # Deliberately omits github-token to exercise the action.yml default.
+      - uses: oasdiff/oasdiff-action/breaking@main
         with:
           base: 'origin/${{ github.base_ref }}:simple.yaml'
           revision: 'HEAD:simple.yaml'
           fail-on: WARN
-          github-token: ${{ github.token }}
