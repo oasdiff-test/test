@@ -11,9 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - run: git fetch --depth=1 origin ${{ github.base_ref }}
-      - uses: oasdiff/oasdiff-action/breaking@v0.1.1
+      # NOTE: deliberately does NOT pass github-token, to verify the action.yml
+      # default of ${{ github.token }} resolves and posts the PR comment.
+      - uses: oasdiff/oasdiff-action/breaking@default-github-token
         with:
           base: 'origin/${{ github.base_ref }}:simple.yaml'
           revision: 'HEAD:simple.yaml'
           fail-on: WARN
-          github-token: ${{ github.token }}
