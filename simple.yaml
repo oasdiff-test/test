@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Tufin
-  version: "3.0"
+  version: "3.1"
 servers:
 - url: https://localhost:8080
 components:
