@@ -37,6 +37,12 @@ paths:
       tags:
        - Group
       operationId: createOneGroup
+      parameters:
+        - in: query
+          name: tenant
+          required: true
+          schema:
+            type: string
       requestBody:
         content:
           application/json:
