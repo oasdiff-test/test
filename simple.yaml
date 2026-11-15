@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Tufin
-  version: "3.0"
+  version: "3.1"
 servers:
 - url: https://localhost:8080
 components:
@@ -9,7 +9,7 @@ components:
     groupId:
       in: query
       name: groupId
-      required: false
+      required: true
       schema:
         type: string
   schemas:
@@ -19,6 +19,12 @@ components:
         data:
           type: object
           properties:
+            label:
+              type: string
+            owner:
+              type: string
+            tier:
+              type: string
             created:
               type: string
               format: date-time
@@ -28,9 +34,10 @@ components:
               type: string
               readOnly: true
             name:
-              type: string
+              type: integer
           required:
             - name
+            - id
 paths:
   /api/v1.0/groups:
     post:
@@ -45,12 +52,6 @@ paths:
         description: Creates one project.
         required: true
       responses:
-        "200":
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/GroupView'
-          description: SUCCESS
         "400":
           content:
             application/json:
